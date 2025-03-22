@@ -29,19 +29,10 @@ Suyana's technology delivers:
 - Rapid, transparent payouts during climate disasters
 - Scalable solution to help close the climate protection gap
 
-## 🏆 Recognition
-
-Suyana has been supported by prestigious organizations:
-- Selected for Lloyd's Lab accelerator program
-- Backed by UNICEF
-- Supported by the Inter-American Development Bank (IADB)
-- Recognized by the Halcyon Foundation
-- Featured in Harvard Innovation Lab
-
 ## 👥 Connect With Us
 
 - 🌐 [Website](https://www.suyana.io)
-- 📧 Email: hello@suyana.io
+- 📧 Email: info@suyana.io
 - 🔗 [LinkedIn](https://www.linkedin.com/company/suyana)
 
 ---
